@@ -1,0 +1,17 @@
+E	entrance	Entry to Peter's House. Probably the most popular way to enter his house, if you ask me./*heavy nasal inhale* Is it me or does it smell like Pine-Sol up in here. <3/*groan* It smells like McDonald's fry grease up in here *gag*/10/-10
+FR	front room	A place to chill at and study. The place where all the Christmas presents are at./No papers means no sadness. :)/Look at that stockpile! I thought I finished my homework last night!/10/-10
+DR	dining room	Used on special occasions for big feasts./The big plates are out... Could it be...? Lasagna!/Is that a piece of Chicken? *bite* Bleh... That's not Chicken!/15/-15
+MH	main hallway	Leads to main part of Peter's House./I can see finally see my reflection!/Why is the floor so sticky?/10/-10
+PeR	pepe's room	The home to the addicted gamer./*phew* I knew stuffing everything in my closet was a good idea./Ooooo, my Taco Bell Chalupa! Ahhmmm! Oh... Oh fuu-!/20/-20
+LR	living room	Where all the family can enjoy some entertainment. The best part, the TV displays everything in 8k resolution. Perfect for Call of Stealth!/Ahhh... That fluffed up carpet sensation./Fuuuuu-! Who left a Lego brick out here?!/10/-10
+PaR	parents' room	Where the traitor sleeps at./Everything looks so neat in here./Ouch! Stubbed my toe on the drawer./10/-10
+KT	kitchen table	A common area to eat delicious food and play board games./Is that piece of cake for me?!/Aw... I gotta put away everybody's dishes, again?/10/-10
+K	kitchen	Where all the alchemy to make delicious food takes place./*slow inhale* Is it... Apple pie?! I think... I think I'm in Heaven!/*abrupt stop in smell* Yo... What is that? Am I tasting what I'm smelling? Yuck!/15/-15
+SH	side hallway	A place with a mixed scent of food, car oil, and candles./I'm glad the shoe cabinet is organized and the pineapple mango candle is fired up./*gag* Is somebody growing cheese over here?/15/-15
+G	garage	Where you use wrenches and park your car that goes vroom vroom./That freshly cut grass smell is lingering in the garage *zen mode intensified - 5 Gum stimulates your senses*/WAAAAAAAA! *slam* Oooooo... Who decided putting the dumbells by the steps was a good idea?/10/-10
+MAPDEF	5	3
+	G	
+K	SH	
+KT		DR
+LR	MH	E
+PaR	PeR	FR
